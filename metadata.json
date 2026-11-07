@@ -1,0 +1,6 @@
+{
+  "name": "打歌舞台大亂鬥",
+  "description": "搞笑喜劇風格的2D音樂節奏闖關小遊戲，帶領閃亮小星、暴走小丸與冷面阿冰在失控的舞台上擊敗突發事件、贏得宇宙最強偶像寶座！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
