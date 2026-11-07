@@ -1,0 +1,4 @@
+你的專案目錄/
+└── .github/
+    └── workflows/
+        └── deploy.yml
